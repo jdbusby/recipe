@@ -3,4 +3,5 @@
 * 1 tsp salt
 * 1/2 onion
 * “1 clove of garlic, chopped”
-* add 2 tsp of corriander
+* add 1 chile pepper
+* add 1 tsb corriander
